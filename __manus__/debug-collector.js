@@ -19,7 +19,7 @@
   // Configuration
   // ==========================================================================
   const CONFIG = {
-    reportEndpoint: "/LockScreenStudio_PRO_NEXT/__manus__/logs",
+    reportEndpoint: "/__manus__/logs",
     bufferSize: {
       console: 500,
       network: 200,
